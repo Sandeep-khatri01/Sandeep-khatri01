@@ -1,8 +1,5 @@
 # 👋 Hi there, I'm Sandeep Khatri!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sandeep-khatri01&style=flat-square)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-khatri01&layout=compact)
-
 ## 🧑‍💻 About Me
 
 - 🎓 Computer Science Engineering (B.Tech, 2nd Year), India
@@ -27,10 +24,6 @@
 
 - [LinkedIn](linkedin.com/in/sandeep-khatri-586224325)
 - Email: sandeepkhatri2004@gmail.com
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeep-khatri01&show_icons=true&hide_title=true&theme=radical)
 
 ---
 
