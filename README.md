@@ -1,82 +1,157 @@
 <!-- ============================================================
-     GitHub profile README
+     GitHub profile README (cyber / terminal style)
      Put this file at the root of the repo named exactly like
-     your username (e.g. github.com/sand/sand), on the main branch.
+     your username, on the main branch.
      Search for "YOUR_" and replace every placeholder.
      ============================================================ -->
 
-<h1 align="center">Hey, I'm Sand 👋</h1>
-
+<!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  Student and self-taught builder from Jaipur, India.<br>
-  I build across <b>web</b>, <b>IoT</b>, <b>AI</b> and <b>legal tech</b>.
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:0a0a2e,100:0d1b4b&height=180&section=header&text=SAND&fontSize=42&fontColor=00E5FF&fontAlignY=55&desc=Web%20%E2%80%A2%20IoT%20%E2%80%A2%20AI%20%E2%80%A2%20Legal%20Tech&descAlignY=80&descColor=8899AA&animation=fadeIn&stroke=00E5FF&strokeWidth=1" alt="Header" />
+</p>
+
+<!-- ===== TYPING LINES ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=600&color=00E5FF&center=true&vCenter=true&width=640&lines=%E2%96%B6+Building+web%2C+IoT+and+AI+projects;%E2%96%B6+Making+legal+help+easier+for+citizens;%E2%96%B6+Student+and+self-taught+builder+from+Jaipur%2C+India;%E2%96%B6+Open+to+internships+%26+collaborations" alt="Typing SVG" />
+</p>
+
+<!-- ===== BADGES ===== -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/-Portfolio-00E5FF?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=00E5FF&style=flat-square" alt="Visitors" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/%E2%9C%85%20OPEN%20TO%20OPPORTUNITIES-Internships%20%7C%20Collaborations%20%7C%20Open%20Source-00E5FF?style=for-the-badge&labelColor=0a0a2e" alt="Open to opportunities" />
 </p>
 
 ---
 
-<!-- ============================================================
-     SECTION: Metrics (generated daily by lowlighter/metrics)
-     The image appears after you run the Metrics workflow once.
-     ============================================================ -->
+## `$ whoami`
 
+```
+┌─────────────────────────────────────────────────────┐
+│  name      :  Sand                                  │
+│  location  :  Jaipur, India                         │
+│  college   :  YOUR_UNIVERSITY                       │
+│  focus     :  Web · IoT · AI · Legal Tech           │
+│  goal      :  YOUR_GOAL                             │
+│  fun_fact  :  YOUR_FUN_FACT                         │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+<!-- ===== SPACE SHOOTER (generated daily by gh-space-shooter) ===== -->
+## 🚀 My Contribution Graph, Played as a Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/game.gif" alt="GitHub contribution space shooter" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+**Web**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&theme=dark" alt="Web stack" />
+
+**Languages & Embedded**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,c,arduino&theme=dark" alt="Languages" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel&theme=dark" alt="Tools" />
+
+> Delete any icon you don't actually use.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=8899AA&bg_color=0d1117&include_all_commits=true&count_private=true" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=00E5FF&text_color=8899AA&bg_color=0d1117&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF&sideLabels=8899AA&dates=8899AA" alt="Streak" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00E5FF&line=0a0a2e&point=00E5FF&area_color=0a0a2e&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" />
+</p>
+
+<!-- ===== OPTIONAL: lowlighter/metrics card =====
+     Delete this block if you don't set up the Metrics workflow. -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 ---
 
-## 🔭 What I'm working on
+## 🔥 Currently Building
 
-- ⚖️ **Law Track**: a citizen-centric legal assistance portal with a RAG-grounded chatbot, legal draft generation, CNR case tracking and a lawyer review pipeline
-- 💄 **Vedika Beauty Care**: a Next.js website for a cosmetics private-label manufacturer
-- 🧠 **Local AI workflow engine**: local-first orchestration that routes tasks through a local LLM and a cloud LLM, with validators at every stage
-- 🗑️ **ESP32 smart dustbin**: ultrasonic fill-level sensing with a live web dashboard
-- 📷 **3D Gaussian Splatting room scanner**: an IoT learning project with ESP32, cameras and LiDAR
+```
+$ cat focus.txt
 
-## 📌 Featured projects
+  [+] Law Track          → citizen-centric legal assistance portal
+  [+] Vedika             → Next.js website for a beauty brand
+  [+] AI workflow engine → local-first LLM orchestration
+  [+] ESP32 projects     → smart dustbin firmware + dashboard
+  [+] 3D scanner         → Gaussian Splatting room scanner (learning)
+```
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Law Track**](https://github.com/YOUR_USERNAME/YOUR_LAW_TRACK_REPO) | Legal help portal for citizens, grown out of my SIH project LegiTrack | YOUR_STACK |
-| [**Vedika**](https://github.com/YOUR_USERNAME/YOUR_VEDIKA_REPO) | Brand website with product pages, lead capture and a print brochure | Next.js, Resend |
-| [**Smart Dustbin**](https://github.com/YOUR_USERNAME/YOUR_DUSTBIN_REPO) | ESP32 firmware and dashboard for fill-level monitoring | ESP32, C++ |
-| [**AI Workflow Engine**](https://github.com/YOUR_USERNAME/YOUR_ENGINE_REPO) | Local-first LLM orchestration | Ollama, Shell, Python |
+## 🚀 Featured Projects
 
-> Delete any row whose repo is private or not ready to show.
-
-## 🛠️ Tech I use
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_LAW_TRACK_REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_LAW_TRACK_REPO&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=8899AA" alt="Law Track" /></a>
+  <a href="https://github.com/YOUR_USERNAME/YOUR_VEDIKA_REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_VEDIKA_REPO&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=8899AA" alt="Vedika" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_DUSTBIN_REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_DUSTBIN_REPO&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=8899AA" alt="Smart Dustbin" /></a>
+  <a href="https://github.com/YOUR_USERNAME/YOUR_ENGINE_REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_ENGINE_REPO&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=8899AA" alt="AI Workflow Engine" /></a>
 </p>
 
-> Remove any badge for something you don't actually use.
-
-## 🎯 Currently learning
-
-- 3D Gaussian Splatting and sensor fusion on ESP32
-- Building reliable local-LLM pipelines
-- Shipping production-quality Next.js sites
-
-## 📫 Get in touch
-
-<p>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+> Only keep cards for repos that are public. Each `repo=` value is the repo name only, not the full link.
 
 ---
 
-<p align="center"><i>Always building, always learning.</i></p>
+## ⚡ Fun Facts
+
+```
+  YOUR_FUN_FACT_1
+  YOUR_FUN_FACT_2
+  YOUR_FUN_FACT_3
+```
+
+---
+
+## 🤝 Let's Connect
+
+| Platform | Link |
+|:--------:|:-----|
+| 💼 LinkedIn | [YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN) |
+| 🌐 Portfolio | [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL) |
+| 📧 Email | YOUR_EMAIL |
+| 🐙 GitHub | [@YOUR_USERNAME](https://github.com/YOUR_USERNAME) |
+
+**💡 Open to internships, collaborations and open source contributions.**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1b4b,50:0a0a2e,100:0d0d0d&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=00E5FF&fontAlignY=55&animation=fadeIn&reversal=true" alt="Footer" />
+</p>
