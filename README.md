@@ -7,7 +7,12 @@
 
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:0a0a2e,100:0d1b4b&height=180&section=header&text=SAND&fontSize=42&fontColor=00E5FF&fontAlignY=55&desc=Web%20%E2%80%A2%20IoT%20%E2%80%A2%20AI%20%E2%80%A2%20Legal%20Tech&descAlignY=80&descColor=8899AA&animation=fadeIn&stroke=00E5FF&strokeWidth=1" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:0a0a2e,100:0d1b4b&height=180&section=header&text=SANDEEP%20KHATRI&fontSize=40&fontColor=00E5FF&fontAlignY=55&desc=Web%20%E2%80%A2%20IoT%20%E2%80%A2%20AI%20%E2%80%A2%20Legal%20Tech&descAlignY=80&descColor=8899AA&animation=fadeIn&stroke=00E5FF&strokeWidth=1" alt="Header" />
+</p>
+
+<!-- ===== ANIME GIF ===== -->
+<p align="center">
+  <img src="https://media.tenor.com/dkGmfhoSvrMAAAAj/gokugtz-saiyangokugtz.gif" alt="Goku" width="498" />
 </p>
 
 <!-- ===== TYPING LINES ===== -->
@@ -33,7 +38,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  name      :  Sand                                  │
+│  name      :  Sandeep Khatri                        │
 │  location  :  Jaipur, India                         │
 │  college   :  YOUR_UNIVERSITY                       │
 │  focus     :  Web · IoT · AI · Legal Tech           │
